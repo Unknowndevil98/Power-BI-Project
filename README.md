@@ -17,10 +17,15 @@ Left uncorrected, this inconsistency would have **understated the true attrition
 **Page 1 — Overview**
 > KPIs, Attrition Breakdown, Yearly Hiring Trend, Gender Split, Key Insights
 
+
+[![Dashboard Preview](Dashboard-Page-1.png)](https://github.com/Unknowndevil98/Power-BI-Project/blob/main/Dashboard-Page-1.png)
+
+
 **Page 2 — Workforce Demographics**
 > Marital Status, Employment Type, Department, and Business Unit distribution
 
-*(Add your dashboard screenshots here — e.g. `/assets/page1.png`, `/assets/page2.png`)*
+[![Dashboard Preview](Dashboard-Page-2.png)](https://github.com/Unknowndevil98/Power-BI-Project/blob/main/Dashboard-Page-2.png)
+
 
 ---
 
@@ -89,6 +94,11 @@ Left uncorrected, this inconsistency would have **understated the true attrition
 
 ---
 
-## 📬 Connect
+## 🔹 Connect With Me
 
-If you found this project useful or have suggestions, feel free to connect or open an issue!
+👉  [LinkedIn](https://www.linkedin.com/in/mohit-singh-yadav/)
+👉  [GitHub](https://github.com/Unknowndevil98)
+
+---
+
+⭐ If you found this project useful, don’t forget to **star this repository**!
